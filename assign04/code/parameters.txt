@@ -1,0 +1,8 @@
+maxIterations
+200
+dataFile
+data.txt
+resultsFile
+results.txt
+centersFile
+centers.txt

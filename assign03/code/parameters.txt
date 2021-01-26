@@ -1,0 +1,12 @@
+arrayWidth
+50
+arrayHeight
+50
+inputVectorLength
+16
+maxIterations
+100
+trainFile 
+train.txt
+testFile 
+test.txt

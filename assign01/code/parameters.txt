@@ -1,0 +1,17 @@
+#Values separated by comma represent a different layer. First and last 
+#layer are assumed to be input and output layer accordingly with the rest
+#being hidden layers.
+numNeurons
+2,3,2,1
+learningRate 
+0.4
+momentum 
+0.8
+maxIterations
+5000
+trainFile 
+training.txt
+testFile 
+test.txt
+resultFile
+results.txt

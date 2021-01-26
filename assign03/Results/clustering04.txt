@@ -1,0 +1,26 @@
+size: 25*25, iterations: 200, sigma0 = size/2
+Y,Y,Y,Y,Y,Y,G,G,G,G,N,E,E,E,E,B,B,I,I,E,E,N,N,G,G
+Y,Y,Y,Y,Y,Y,G,G,G,G,G,E,E,E,E,E,B,I,E,E,E,N,N,N,N
+Y,Y,Y,Y,Y,Y,G,G,G,G,G,E,E,E,E,E,E,E,E,E,E,N,N,N,N
+Y,Y,Y,Y,Y,Y,G,G,G,G,G,E,E,E,E,E,E,E,E,E,E,N,N,N,N
+Y,Y,Y,Y,Y,Y,N,G,G,G,B,B,E,E,E,E,E,E,N,N,N,N,N,N,N
+B,B,Y,Y,Y,Y,N,N,N,N,B,B,B,E,E,E,E,N,N,N,N,N,N,N,N
+B,B,B,Y,Y,Y,Y,N,N,N,N,N,N,N,N,E,H,H,H,N,N,N,G,N,N
+B,B,B,Y,Y,Y,Y,Y,N,N,H,N,N,N,H,H,H,H,H,H,G,G,G,N,N
+B,B,B,Y,Y,Y,Y,Y,H,B,H,H,H,H,H,H,H,H,H,H,G,G,N,N,N
+B,B,B,Y,Y,Y,Y,Y,B,H,H,H,H,H,H,H,E,E,E,E,N,N,N,N,N
+B,B,B,B,G,G,Y,B,B,B,H,H,H,E,E,E,E,E,E,E,N,N,N,N,N
+B,B,B,G,G,N,G,G,B,B,H,H,E,E,E,E,E,E,E,E,N,N,N,N,N
+G,G,G,G,G,G,G,G,B,B,B,E,E,E,E,E,E,E,E,E,N,N,N,N,N
+G,G,G,G,G,N,B,B,B,B,H,E,E,E,E,E,E,E,E,N,N,N,N,N,N
+G,G,G,G,G,N,B,B,B,G,H,E,E,E,E,E,E,E,E,N,N,N,N,G,G
+E,E,E,E,G,B,B,B,H,H,H,E,E,E,E,G,G,E,E,N,N,N,G,G,G
+E,E,E,E,B,B,B,H,H,H,H,E,E,E,G,G,G,B,B,B,N,N,G,G,G
+E,E,E,E,B,B,B,H,H,H,E,E,E,E,G,G,B,N,N,N,N,N,N,N,G
+E,E,E,B,B,B,B,Y,H,G,G,E,E,E,B,N,N,N,N,N,N,N,N,N,N
+E,E,E,B,B,B,B,Y,G,G,G,G,E,N,N,N,N,N,N,N,N,N,N,N,N
+E,E,E,B,B,B,Y,Y,G,G,G,G,E,N,N,N,N,N,E,N,N,N,N,N,N
+G,E,E,B,B,B,Y,Y,G,G,G,G,E,E,E,E,E,E,E,E,N,N,N,N,N
+G,B,E,B,B,Y,Y,Y,N,G,N,N,E,E,E,E,E,E,E,E,E,E,N,N,N
+B,B,B,B,Y,Y,Y,Y,N,N,N,N,E,E,E,E,E,E,E,E,E,E,E,E,E
+B,B,B,B,Y,Y,Y,Y,N,N,N,N,E,E,E,E,E,E,E,E,E,E,E,E,E
